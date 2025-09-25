@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xS4k0us4" alt="0xS4k0us4" /></a> </p>
 
-- 🌱 I’m currently learning **HackTheBbox - Certified Web Exploitation Expert (CWEE)**
+- 🌱 I’m currently learning **Offsec - WEB-300: Advanced Web Attacks and Exploitation (OSWE)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
