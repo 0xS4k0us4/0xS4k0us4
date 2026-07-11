@@ -21,7 +21,7 @@
 
 | Certification | Issuer |
 |---|---|
-| OSWE — Offensive Security Web Expert |
+| OSWE — Offensive Security Web Expert | OffSec |
 | OSCP+ — Offensive Security Certified Professional | OffSec |
 | ARTOC — Advanced Red Team Operations | White Knight Labs |
 | CRTL — Certified Red Team Lead | Zero-Point Security |
