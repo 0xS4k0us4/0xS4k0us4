@@ -21,13 +21,14 @@
 
 | Certification | Issuer |
 |---|---|
+| OSWE — Offensive Security Web Expert |
+| OSCP+ — Offensive Security Certified Professional | OffSec |
+| ARTOC — Advanced Red Team Operations | White Knight Labs |
 | CRTL — Certified Red Team Lead | Zero-Point Security |
 | CRTO — Certified Red Team Operator | Zero-Point Security |
-| CRTP — Certified Red Team Professional | Altered Security |
-| OSCP+ — Offensive Security Certified Professional | OffSec |
-| CPTS — Certified Penetration Testing Specialist | HackTheBox |
 | BSCP — Burp Suite Certified Practitioner | PortSwigger |
-| ARTOC — Advanced Red Team Operations | White Knight Labs |
+| CPTS — Certified Penetration Testing Specialist | HackTheBox |
+| CRTP — Certified Red Team Professional | Altered Security |
 | CEH Master \| CEH Practical \| CEH | EC-Council |
 
 ---
@@ -36,13 +37,13 @@
 
 - 🥇 **Pro Hacker**
 - 🌍 **Global Ranking #120**
-- 🔬 **Pro Labs Completed:** Dante \| Zephyr \| Puppet \| Mythical
+- 🔬 **Pro Labs Completed:** Zephyr \| Dante \| Puppet \| Mythical
 
 ---
 
 ## 🌱 Currently Learning
 
-- **WEB-300: Advanced Web Attacks and Exploitation (OSWE) — OffSec**
+- **AI-300: Advanced AI Red Teaming — OffSec**
 
 ---
 
