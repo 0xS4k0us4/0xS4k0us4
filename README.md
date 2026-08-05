@@ -19,18 +19,18 @@
 
 ## 🏆 Certifications
 
-| Certification | Issuer |
-|---|---|
+| Certification | Issuer | Certified |
+|---|---|---|
 | OSAI — Offensive Security Advanced AI Red Teaming | OffSec | Ongoing
 | COAE — Certified Offensive AI Expert | HackTheBox | Ongoing
-| OSWE — Offensive Security Web Expert | OffSec |
-| BSCP — Burp Suite Certified Practitioner | PortSwigger |
-| OSCP+ — Offensive Security Certified Professional | OffSec |
-| CRTL — Certified Red Team Lead | Zero-Point Security |
-| CRTO — Certified Red Team Operator | Zero-Point Security |
-| CPTS — Certified Penetration Testing Specialist | HackTheBox |
-| CRTP — Certified Red Team Professional | Altered Security |
-| CEH Master \| CEH Practical \| CEH | EC-Council |
+| OSWE — Offensive Security Web Expert | OffSec | Yes |
+| BSCP — Burp Suite Certified Practitioner | PortSwigger | Yes |
+| OSCP+ — Offensive Security Certified Professional | OffSec | Yes |
+| CRTL — Certified Red Team Lead | Zero-Point Security | Yes |
+| CRTO — Certified Red Team Operator | Zero-Point Security | Yes |
+| CPTS — Certified Penetration Testing Specialist | HackTheBox | Yes |
+| CRTP — Certified Red Team Professional | Altered Security | Yes |
+| CEH Master \| CEH Practical \| CEH | EC-Council | Yes |
 
 ---
 
