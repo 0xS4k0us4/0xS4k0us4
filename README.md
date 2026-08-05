@@ -38,7 +38,7 @@
 
 - 🥇 **Elite Hacker**
 - 🌍 **Global Ranking Top 100**
-- 🔬 **Pro Labs Completed:** Zephyr \| Dante \| Puppet \| Mythical
+- 🔬 **Pro Labs Completed:** Zephyr \| Offshore \|Dante \| 
 
 ---
 
