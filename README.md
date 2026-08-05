@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moe</h1>
-<h3 align="center">Cyber Threat Expert | Red Team Operator | Application Security Engineer | Offensive AI Red Teaming </h3>
+<h3 align="center">Cyber Threat Expert | Red Team Operator | Application Security Engineer | Offensive AI Red Teaming </h3><br>
+
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZzOWNuYzBocTA2M2xmbWVta2N5ZW5mb3ZrY2FjY3puM2tpYjI0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d6p2TeOmY2tlmpB4HK/giphy.gif" />
